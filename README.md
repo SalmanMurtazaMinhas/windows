@@ -1,6 +1,6 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Installfest for Windows
+![image](https://i.blogs.es/1a3ae8/windows/840_560.jpg)
 ## Installing VSCode for Windows
 
 ### Four easy steps can do the job for you.
@@ -10,12 +10,14 @@
 1. Double-click Visual Studio Code.exe file and follow the installing process till complete.
 
 After installing the VS Code, we can also configure the code to open from a command line, and it is pretty darn easy for us to do that.
+After you accept the licence agreement, click Next >. On the page titled Select Additional Tasks, we recommend you check all the boxes (but it is up to you). but make sure to select "Add to PATH"
 
-![vscode image](/uploads/vscode.png)
+![image](https://education.launchcode.org/lchs/_images/win-vscode-install.png)
+
+
 
 1. Launch VS Code.
-1. Open the Command Palette (⇧ Shift + Ctrl+ P) and type `shell command` to find the Shell Command: Install `code` command in PATH command.
-Now, if you have created any project that goes into that folder and hit the following command to open that project into the Visual Studio Code.
+1. Now, after we are done installing GitBash and you have created a project, move into it on your terminal and hit the following command to open that project into the Visual Studio Code.
 
 ```
 code .
@@ -48,4 +50,3 @@ Git Bash comes included as part of the [Git For Windows package](https://gitforw
 
 #### Reference
 1. [Atlassian](https://www.atlassian.com/git/tutorials/)
-1. 
